@@ -1,0 +1,6 @@
+github: [tooniez]  # List of usernames to support funding on GitHub
+patreon: tooniez             # Patreon username for funding
+ko_fi: tooniez               # Ko-fi username for funding
+custom:                          # Custom funding methods
+  - method: buymeacoffee         # Custom funding method: Buy Me a Coffee
+    link: https://www.buymeacoffee.com/tooniez  # Link to Buy Me a Coffee account
